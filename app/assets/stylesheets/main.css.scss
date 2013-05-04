@@ -1,3 +1,37 @@
 // Place all the styles related to the main controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: lightgrey;
+  #new_task {
+    margin-left: 40px;
+    input {
+       height:18px;
+    }
+    input[type=submit] {
+      font-size: 120%;
+    }
+  }
+}
+ul {
+  list-style-type: none;
+  display:inline-block;
+    li {
+      padding:6px;
+      border-bottom: 1px dotted black;
+      form {
+        display:inline;
+        width: 8px;
+        height: 8px;
+      input[type=checkbox] {
+        margin-top: -30px;
+        /* Double-sized Checkboxes */
+        -ms-transform: scale(2); /* IE */
+        -moz-transform: scale(2); /* FF */
+        -webkit-transform: scale(2); /* Safari and Chrome */
+        -o-transform: scale(2); /* Opera */
+      }
+    }
+  }
+}

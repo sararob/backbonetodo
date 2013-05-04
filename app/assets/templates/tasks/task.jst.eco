@@ -1,0 +1,4 @@
+<%= @task.get('name') %>
+<form id="check">
+    <input type="checkbox" name="complete" id="complete">
+</form>
