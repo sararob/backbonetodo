@@ -1,0 +1,12 @@
+<h1>To Do List</h1>
+
+<form id="new_task">
+    <input type="text" name="name" id="new_task_name">
+    <input type="submit" value="Add">
+</form>
+
+<ul>
+<% for task in @tasks.models: %>
+    <li><%= task.get('name') %></li>
+<% end %>
+</ul>
