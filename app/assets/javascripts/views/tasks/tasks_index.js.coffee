@@ -4,13 +4,18 @@ class Backbonetodo.Views.TasksIndex extends Backbone.View
 
   events:
     'submit #new_task': 'createTask'
-    'click #complete': 'markComplete'
+    'click .toggle': 'markComplete'
+    'click .destroy': 'clear'
 
-  markComplete: ->
+  #Change complete to true and put a line through the list item
+  markComplete: (task) ->
+    name = $(event.currentTarget).data('name')
+    @collection.get('name').set(complete:true)
 
   initialize: ->
     @collection.on('reset', @render, this)
     @collection.on('add', @appendTask, this)
+
 
   render: ->
     $(@el).html(@template())
@@ -34,3 +39,7 @@ class Backbonetodo.Views.TasksIndex extends Backbone.View
       errors = $.parseJSON(response.responseText).errors
       for attribute, messages of errors
         alert "#{attribute} #{message}" for message in messages
+
+  clear: (task) ->
+    event.preventDefault()
+    @collection.remove()

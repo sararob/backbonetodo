@@ -1,4 +1,5 @@
+<button class="destroy">x</button>
 <%= @task.get('name') %>
 <form id="check">
-    <input type="checkbox" name="complete" id="complete">
+    <input type="checkbox" name="complete" class="toggle">
 </form>
