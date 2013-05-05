@@ -50,6 +50,7 @@
     <file path="/a.dummy" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713359068" ignored="false" />
     <file path="$PROJECT_DIR$/../hapily/log/newrelic_agent.log" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713333717" ignored="false" />
     <file path="/database.yml" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367774813913" ignored="false" />
+    <file path="/Gemfile" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367775621025" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,15 +74,17 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="82" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1367711888000" expanded="true" signature="1174:1221" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="41" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
+            <state line="5" column="38" selection-start="130" selection-end="130" vertical-scroll-proportion="0.111773476">
               <folding />
             </state>
           </provider>
@@ -96,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.55886734">
+            <state line="19" column="57" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -189,8 +192,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="722" />
-    <option name="y" value="22" />
+    <option name="x" value="382" />
+    <option name="y" value="35" />
     <option name="width" value="1420" />
     <option name="height" value="819" />
   </component>
@@ -775,7 +778,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="722" y="22" width="1420" height="819" extended-state="0" />
+    <frame x="382" y="35" width="1420" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -946,14 +949,9 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="82" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="41" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1367711888000" expanded="true" signature="1174:1221" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -966,7 +964,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="592" selection-end="592" vertical-scroll-proportion="0.55886734">
+        <state line="19" column="57" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="130" selection-end="130" vertical-scroll-proportion="0.111773476">
           <folding />
         </state>
       </provider>
