@@ -34,4 +34,4 @@ class Backbonetodo.Views.TasksIndex extends Backbone.View
 
   markComplete: (event) ->
     id = $(event.currentTarget).get('id')
-    alert event.currentTarget
+    alert "Nice going!"

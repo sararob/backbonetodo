@@ -102,7 +102,7 @@
       <file leaf-file-name="tasks_index.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="29" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.804769">
+            <state line="36" column="22" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.804769">
               <folding />
             </state>
           </provider>
@@ -909,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="29" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.804769">
+        <state line="36" column="22" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.804769">
           <folding />
         </state>
       </provider>
