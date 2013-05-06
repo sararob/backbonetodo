@@ -10,11 +10,11 @@ class TasksController < ApplicationController
   end
 
   def create
-    respond_with Task.create(params[:entry])
+    respond_with Task.create(params[:task])
   end
 
   def update
-    respond_with Task.update(params[:id], params[:entry])
+    respond_with Task.update(params[:id], params[:task])
   end
 
   def destroy

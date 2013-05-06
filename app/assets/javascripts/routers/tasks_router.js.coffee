@@ -5,7 +5,7 @@ class Backbonetodo.Routers.Tasks extends Backbone.Router
 
   initialize: ->
     @collection = new Backbonetodo.Collections.Tasks()
-    @collection.fetch({reset: true})
+    @collection.fetch({reset:true})
 
   index: ->
     view = new Backbonetodo.Views.TasksIndex(collection: @collection)

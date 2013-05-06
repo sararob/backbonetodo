@@ -12,16 +12,16 @@
     <file path="$PROJECT_DIR$/../sara_robinson/app/views/pages/coding.html.erb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367632836478" ignored="false" />
     <file path="/coding.html.erb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367632353635" ignored="false" />
     <file path="$PROJECT_DIR$/../sara_robinson/app/views/layouts/application.html.erb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367632670002" ignored="false" />
-    <file path="/tasks_router.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367798938093" ignored="false" />
+    <file path="/tasks_router.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367803845994" ignored="false" />
     <file path="/backbonetodo.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367633511900" ignored="false" />
-    <file path="/tasks_index.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367799266456" ignored="false" />
-    <file path="/index.jst.eco" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367799154026" ignored="false" />
+    <file path="/tasks_index.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367804098728" ignored="false" />
+    <file path="/index.jst.eco" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367803958031" ignored="false" />
     <file path="/tasks.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367798311978" ignored="false" />
-    <file path="/tasks_controller.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367798415750" ignored="false" />
+    <file path="/tasks_controller.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367801052835" ignored="false" />
     <file path="/seeds.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367634377362" ignored="false" />
-    <file path="/task.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367699905514" ignored="false" />
+    <file path="/task.js.coffee" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367800462962" ignored="false" />
     <file path="/README.rdoc" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367696049015" ignored="false" />
-    <file path="/task.jst.eco" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367701948730" ignored="false" />
+    <file path="/task.jst.eco" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367799722610" ignored="false" />
     <file path="/task.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367696565946" ignored="false" />
     <file path="/main.css.scss" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367698038918" ignored="false" />
     <file path="$PROJECT_DIR$/../harry_potter/app/assets/stylesheets/application.css" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367706345487" ignored="false" />
@@ -47,7 +47,7 @@
     <file path="$PROJECT_DIR$/../hapily/app/views/layouts/application.html.erb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713079467" ignored="false" />
     <file path="$PROJECT_DIR$/../hapily/app/controllers/apis_controller.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713339945" ignored="false" />
     <file path="/apis_controller.rb" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367711424962" ignored="false" />
-    <file path="/a.dummy" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713359068" ignored="false" />
+    <file path="/a.dummy" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367802275222" ignored="false" />
     <file path="$PROJECT_DIR$/../hapily/log/newrelic_agent.log" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367713333717" ignored="false" />
     <file path="/database.yml" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367774813913" ignored="false" />
     <file path="/Gemfile" changelist="2e6dc730-e124-4e62-9162-7b42454f3098" time="1367797515372" ignored="false" />
@@ -70,30 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="backbonetodo.js.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbonetodo.js.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="26" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tasks_router.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/tasks_router.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="68" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+            <state line="14" column="79" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +82,7 @@
       <file leaf-file-name="index.jst.eco" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/templates/tasks/index.jst.eco">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="75" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+            <state line="11" column="52" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +91,7 @@
       <file leaf-file-name="tasks_index.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="238" selection-end="238" vertical-scroll-proportion="0.20119224">
+            <state line="16" column="83" selection-start="416" selection-end="416" vertical-scroll-proportion="0.3576751">
               <folding />
             </state>
           </provider>
@@ -129,7 +109,25 @@
       <file leaf-file-name="tasks.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/collections/tasks.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="66" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
+            <state line="2" column="67" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backbonetodo.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbonetodo.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="68" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/models/task.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,7 +136,7 @@
       <file leaf-file-name="tasks_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/tasks_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="65" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
+            <state line="11" column="68" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,15 +174,15 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/README.rdoc" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/views/tasks/task.js.coffee" />
         <option value="$PROJECT_DIR$/app/models/task.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/models/task.js.coffee" />
-        <option value="$PROJECT_DIR$/app/assets/templates/tasks/task.jst.eco" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/collections/tasks.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/templates/tasks/task.jst.eco" />
         <option value="$PROJECT_DIR$/app/controllers/tasks_controller.rb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/views/tasks/task.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/routers/tasks_router.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/templates/tasks/index.jst.eco" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee" />
@@ -192,8 +190,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="679" />
-    <option name="y" value="50" />
+    <option name="x" value="463" />
+    <option name="y" value="22" />
     <option name="width" value="1420" />
     <option name="height" value="819" />
   </component>
@@ -684,16 +682,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="679" y="50" width="1420" height="819" extended-state="0" />
+    <frame x="463" y="22" width="1420" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32825485" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6712707" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6717452" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -776,20 +774,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="76" selection-start="208" selection-end="208" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="57" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
@@ -829,30 +813,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbonetodo.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="3" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/collections/tasks.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="66" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/tasks_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="65" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -871,23 +834,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/models/task.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/collections/tasks.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="67" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/backbonetodo.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="68" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/tasks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="68" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/routers/tasks_router.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="68" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+        <state line="14" column="79" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/templates/tasks/index.jst.eco">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="75" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
+        <state line="11" column="52" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/views/tasks/tasks_index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="238" selection-end="238" vertical-scroll-proportion="0.20119224">
+        <state line="16" column="83" selection-start="416" selection-end="416" vertical-scroll-proportion="0.3576751">
           <folding />
         </state>
       </provider>
