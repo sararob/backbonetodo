@@ -7,6 +7,7 @@ gem 'bootstrap-will_paginate', '0.0.6'
 gem 'simplecov', :require => false, :group => :test
 gem 'newrelic_rpm'
 gem 'masonry-rails'
+gem 'backbone-on-rails'
 
 group :production do
   gem 'pg'
